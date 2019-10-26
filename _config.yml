@@ -107,9 +107,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Motoko Yoshihara"
+  name             : # "Motoko Yoshihara"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "ThetaHealing Master & Science Instructor and Practitioner"
+  bio              : "Healing and Empowernment Life Coach"
   links:
     - label: "Sydney (Waverton), Australia"
       icon: "fas fa-map"
