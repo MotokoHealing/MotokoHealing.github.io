@@ -110,15 +110,22 @@ author:
   name             : "Motoko Yoshihara"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "ThetaHealing Master & Science Instructor and Practitioner"
-  location         : "Sydney (Waverton)"
-  email            : motoko.healing@gmail.com
   links:
-    - label: "Location"
+    - label: "Sydney (Waverton), Australia"
       icon: "fas fa-map"
       url: https://goo.gl/maps/46W54WEScf5N5zns5
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: mailto:motoko.healing@gmail.com
+    - label: "Call:+61-400-007-088"
+      icon: "fas fa-phone"
+      url: tel:+61-400-007-088
+    - label: "WhatsApp"
+      icon: "fa fa-whatsapp"
+      url: https://wa.me/61400007088
+    - label: "Line"
+      # icon: "fa fa-whatsapp"
+      url: https://wa.me/61400007088
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://www.motokoyoshihara.com"
