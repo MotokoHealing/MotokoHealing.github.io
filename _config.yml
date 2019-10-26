@@ -16,9 +16,9 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Motoko Yoshihara Healing Service"
+title                    : "I help you shine"
 title_separator          : "-"
-subtitle                 : Healing Instructor and Practitioner # site tagline that appears below site title in masthead
+subtitle                 : Healing and Empowernment Life Coach # site tagline that appears below site title in masthead
 name                     : "Motoko Yoshihara"
 description              : " ---- "
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -53,7 +53,7 @@ staticman:
   path                   : # "/_data/comments/{options.slug}" (default)
   requiredFields         : # ['name', 'email', 'message']
   transforms:
-    email                : # "md5"
+    email                : motoko.healing@gmail.com # "md5"
   generatedFields:
     date:
       type               : # "date"
@@ -107,18 +107,18 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Motoko Yoshihara"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "ThetaHealing Master & Science Instructor and Practitioner"
+  location         : "Sydney (Waverton)"
+  email            : motoko.healing@gmail.com
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:your.name@email.com
+       url: mailto:motoko.healing@gmail.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+       url: "https://www.motokoyoshihara.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
