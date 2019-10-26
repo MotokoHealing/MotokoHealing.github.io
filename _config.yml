@@ -121,10 +121,10 @@ author:
       icon: "fas fa-phone"
       url: tel:+61-400-007-088
     - label: "WhatsApp"
-      icon: "fa fa-whatsapp"
+      icon: "fas fa-phone"
       url: https://wa.me/61400007088
     - label: "Line"
-      # icon: "fa fa-whatsapp"
+      icon: "fas fa-phone"
       url: https://wa.me/61400007088
     - label: "Website"
       icon: "fas fa-fw fa-link"
