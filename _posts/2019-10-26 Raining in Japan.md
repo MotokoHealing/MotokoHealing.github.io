@@ -1,7 +1,7 @@
 ---
-title: "日本で大雨が続いていることについて"
+title: "Raining in Japan"
 categories:
-  - 自然災害
+  - Nature
 tags:
   - 自然災害
   - 最近思うこと
