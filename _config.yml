@@ -115,10 +115,10 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-       url: mailto:motoko.healing@gmail.com
+      url: mailto:motoko.healing@gmail.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
-       url: "https://www.motokoyoshihara.com"
+      url: "https://www.motokoyoshihara.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
