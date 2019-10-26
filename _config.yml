@@ -16,9 +16,9 @@ minimal_mistakes_skin    : "dirt" # "default", "air", "aqua", "contrast", "dark"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "I help you shine"
+title                    : "Motoko Yoshihara"
 title_separator          : "-"
-subtitle                 : Healing and Empowernment Life Coach # site tagline that appears below site title in masthead
+subtitle                 : I help you shine # site tagline that appears below site title in masthead
 name                     : "Motoko Yoshihara"
 description              : " ---- "
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
